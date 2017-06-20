@@ -9,12 +9,6 @@ enum couleur_e
 };
 typedef enum valeur_e valeur_e;
 
-/*typedef enum couleur2_e couleur2_e;
-enum couleur2_e
-{
-   COEUR2=3, CARREAU2,PIQUE2,TREFLE2
-};*/
-
 typedef enum valeur_e valeur_e;
 enum valeur_e
 {
